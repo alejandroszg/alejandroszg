@@ -1,14 +1,14 @@
 <img src="https://github.com/alejandroszg/profile/blob/main/img/logo.png" align="center" width="200px"/>
--  👋 Name: Alejandro Sánchez
+-  👋 <b>Name:</b> Alejandro Sánchez
 <br>
--  👀 Interest: Becoming Frontend-Developer
+-  👀 <b>Interest:</b> Become a Frontend-Developer
 <br>
--  🌎 Location: Chile
+-  🌎 <b>Location:</b> Chile
 <br>
--  ⚽ Hobbies: Football, F1 and books
+-  ⚽ <b>Hobbies:</b> Football, F1 and books
 <br>
--  💻 Programming Languages: HTML, CSS, JavaScript
+-  💻 <b>Programming Languages:</b> HTML, CSS, JavaScript
 <br>
--  🧠 Currently Learning: JavaScript / React
+-  🧠 <b>Currently Learning:</b> JavaScript / React
 <br>
--  🙍‍♀️Connect with me: [LinkedIn](https://www.linkedin.com/in/alejandrosanchezgarcia/) | [Twitter](https://twitter.com/Alejandroszg)
+-  🙍‍<b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a>
