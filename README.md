@@ -11,4 +11,4 @@
 <br>
 -  🧠 <b>Currently Learning:</b> JavaScript / React
 <br>
--  🙍‍ <b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a>
+-  🌐 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a>
