@@ -9,6 +9,6 @@
 <br>
 -  💻 <b>Technologies:</b> GIT, HTML, CSS, JavaScript
 <br>
--  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/">JavaScript Moderno Guía Definitiva Construye +15 Proyectos</a> and <a href="https://www.udemy.com/course/50-projects-50-days/">50 Projects In 50 Days - HTML, CSS & JavaScript</a>
+-  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/">JavaScript Moderno Guía Definitiva Construye +15 Proyectos</a>
 <br>
 -  🌐 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a>
