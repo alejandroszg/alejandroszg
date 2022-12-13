@@ -5,10 +5,10 @@
 <br>
 -  🌎 <b>Location:</b> Chile
 <br>
--  ⚽ <b>Hobbies:</b> Football, F1 and books
+-  ⚽ <b>Hobbies:</b> Football, F1 and read books
 <br>
--  💻 <b>Technologies:</b> GIT, HTML, CSS, JavaScript
+-  💻 <b>Technologies:</b> GIT, HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular.
 <br>
--  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/">JavaScript Moderno Guía Definitiva Construye +15 Proyectos</a>
+-  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/angular-fernando-herrera/">Angular: De cero a experto</a>
 <br>
 -  🌐 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a>
