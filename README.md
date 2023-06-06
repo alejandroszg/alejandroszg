@@ -7,7 +7,7 @@
 <br>
 -  ⚽ <b>Hobbies:</b> Football, F1 and read books
 <br>
--  💻 <b>Technologies:</b> GIT, HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular.
+-  💻 <b>Technologies:</b> GIT, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, Angular.
 <br>
 -  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/angular-fernando-herrera/">Angular: De cero a experto</a>
 <br>
