@@ -5,7 +5,7 @@
 <br>
 -  ⚽ <b>Hobbies:</b> Football, F1 and read books
 <br>
--  💻 <b>Technologies:</b> GIT, HTML, CSS, TailwindCSS, Bootstrap, JavaScript, TypeScript, Angular, React.
+-  💻 <b>Technologies:</b> GIT, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, Angular, React.
 <br>
 -  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course 2023: React, Redux & More
 </a>
