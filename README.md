@@ -5,9 +5,9 @@
 <br>
 -  ⚽ <b>Hobbies:</b> Football, F1 and read books
 <br>
--  💻 <b>Technologies:</b> GIT, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, Angular, React.
+-  💻 <b>Technologies:</b> React, JavaScript, Angular, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, GIT.
 <br>
 -  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course 2023: React, Redux & More
-</a>
+</a> and a lot of Angular!
 <br>
 -  🌐 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a>
