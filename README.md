@@ -10,4 +10,4 @@
 -  🧠 <b>Currently Learning:</b> <a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course 2025: React, Redux & More
 </a> and a lot of Angular!
 <br>
--  🌐 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a>
+-  🌐 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/alejandrosanchezgarcia/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/Alejandroszg" target="_blank">Twitter</a> | <a href="[https://twitter.com/Alejandroszg](https://alejandro-sanchez.vercel.app/)" target="_blank">Portfolio</a>
